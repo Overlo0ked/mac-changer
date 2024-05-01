@@ -3,6 +3,7 @@
 interface=input("interface:>(eth0/wlan0)")
 newmac=input("new mac:>")
 
+
 import subprocess
 subprocess.call(["ifconfig", interface, "down"])
 subprocess.call(["ifconfig", interface, "hw", "ether", newmac])
