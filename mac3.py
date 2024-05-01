@@ -130,6 +130,7 @@ elif choice == '2':
         else:
             print(f"{red}Invalid MAC address format. Please try again.{reset}")
 
+    
     print(f"New MAC address: {new_mac}")
     confirmation = input(f"Confirm change? ({grn}y{reset}/{red}n{reset}): ").lower()
 
