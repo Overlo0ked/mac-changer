@@ -31,6 +31,6 @@ This MAC changer script can be a helpful tool, but it's important to use it for 
    git clone https://github.com/azarado-006/mac-changer.git
  
 
-   ```bash
-   sudo python3 mac3.py
+   python3 mac3.py
+
 
