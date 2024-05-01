@@ -28,9 +28,10 @@ This MAC changer script can be a helpful tool, but it's important to use it for 
  1.Clone this repository:
 
    ```bash
-   git clone https://github.com/azarado-006/mac-changer.git
- 
+    >>   git clone https://github.com/azarado-006/mac-changer.git
 
-   python3 mac3.py
+    >>   cd mac_changer
+
+    >>   python3 mac3.py
 
 
